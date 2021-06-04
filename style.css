@@ -1,0 +1,35 @@
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    vertical-align:super;
+    background-color:  #1418e9c7;
+    border-style: solid;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+*{
+    background-color: #559ee7be;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly ;
+}
+
+.img{
+    border-style: solid;
+}
+
+h1{
+    background-color: #1418e9c7;
+    border-style: solid;
+}
